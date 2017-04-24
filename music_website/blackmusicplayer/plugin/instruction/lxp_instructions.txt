@@ -4,7 +4,7 @@
 *声明：我的个人音乐网站是基于＠saleem再次开发的Jplayer所制作的
 *http://www.codebasehero.com/download/?file=music-player
 *仅用于我学习LAMP框架
-*更改了下载功能，增加了背景更换，识别设备，统计人数(php+mysql)等功能
+*更改了下载功能，增加了背景更换(js)，识别设备(js)，统计人数(php+mysql)等功能
 *给初学者一些样本吧，我也是初学者,也希望各位大神指出其中的bug
 *请勿用于商业用途
 *Address: http://www.daydreamplus.cn
